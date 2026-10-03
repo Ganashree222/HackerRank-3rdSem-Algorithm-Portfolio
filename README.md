@@ -9,11 +9,11 @@
 
 ## HackerRank Profile
 
-Add your HackerRank profile link here.
+https://www.hackerrank.com/profile/ganashreeca350
 
 ## GitHub Repository
 
-Add your GitHub repository link here.
+https://github.com/Ganashree222/HackerRank-3rdSem-Algorithm-Portfolio
 
 ## Introduction
 
